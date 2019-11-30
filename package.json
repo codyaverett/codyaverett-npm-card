@@ -1,6 +1,6 @@
 {
   "name": "codyaverett",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Personal npm card for Cody Averett (@code_e_averett)",
   "main": "dist/card.js",
   "unpkg": "index.html",
